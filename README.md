@@ -26,7 +26,12 @@ A - Turn Left
 D - Turn Right
 S - Back
 
-# Objective
-Check in to all the checkpoints to complete a lap. Going out of bounds will spawn you back to the latest checkpoint.
+# Rules and Objectives
+- Check in to all the checkpoints to complete a lap.
+- Going out of bounds will spawn you at the nearest checked checkpoint. 
+- Colliding with opponents will bounce you back and reduce your health.
+- Keep your tank full by collecting fuel cans.
+- Game will end once your health drops to 0 or you run out of fuel.
 
-
+# Link
+[OneDrive Link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/ashmit_chamoli_students_iiit_ac_in/EY_wYk21O8JIgjPCFTDzJOcBe5KAMzjNXR1nq8xRYnR4Xw?e=Wh7uud)
