@@ -12,7 +12,6 @@ run following when you change something in any file
 
 ```
 npx webpack --config webpack.config.js
-
 ```
 To start the server
 
